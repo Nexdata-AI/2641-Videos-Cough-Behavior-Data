@@ -3,7 +3,7 @@
 ## Description
 2,641 Videos – Cough Behavior Data includes indoor scenes and outdoor scenes. The data covers multiple scenes and multiple resolutions. The data can be used for tasks such as human behavior detection and abnormal behavior recognition.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1356?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1356?source=Github
 
 
 ## Data size
